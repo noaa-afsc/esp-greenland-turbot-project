@@ -1,6 +1,8 @@
 # Greenland Turbot (*Reinhardtius hippoglossoides*) ESP Project
 
-This repository supports the creation, development, and version tracking for the Bering Sea and Aleutian Islands Greenland turbot ecosystem and socioeconomic profile (ESP) report authored at the NOAA Fisheries Alaska Fisheries Science Center. <img width="400" height="267" alt="image" src="https://github.com/user-attachments/assets/bbf40677-f28e-46fe-bd1e-f067a01b7ffc" />
+This repository supports the creation, development, and version tracking for the Bering Sea and Aleutian Islands Greenland turbot ecosystem and socioeconomic profile (ESP) report authored at the NOAA Fisheries Alaska Fisheries Science Center. 
+
+<img width="400" height="267" alt="image" src="https://github.com/user-attachments/assets/bbf40677-f28e-46fe-bd1e-f067a01b7ffc" />
 
 ## Repository Structure
 
