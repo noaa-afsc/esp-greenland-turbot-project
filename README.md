@@ -1,6 +1,22 @@
-# Instructions for including your repository in the noaa-afsc organization
+# Greenland Turbot (*Reinhardtius hippoglossoides*) ESP Project
 
-This is a default template for a noaa-afsc repository. It includes a `secretScan.yml` file that helps us check for secrets when new commits are made to the repositories.
+This repository supports the creation, development, and version tracking for the Bering Sea and Aleutian Islands Greenland turbot ecosystem and socioeconomic profile (ESP) report authored at the NOAA Fisheries Alaska Fisheries Science Center. <img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/bbf40677-f28e-46fe-bd1e-f067a01b7ffc" />
+
+## Repository Structure
+
+This repository is organized into 
+
+## Contact Information
+
+The primary author(s) responsible for maintaing this repository are: 
+1.) Kalei Shotwell (kalei.shotwell@noaa.gov)
+2.) Meaghan Bryan (meaghan.bryan@noaa.gov)
+
+## Published (Official) Versions
+
+Official versions of all ESP reports are found on the North Pacific Fishery Management Council (NPFMC) website at: https://www.npfmc.org/library/safe-reports/ or at the NOAA Marine Fisheries Alaska Fisheries Science Center archive at: https://www.fisheries.noaa.gov/alaska/population-assessments/north-pacific-groundfish-stock-assessments-and-fishery-evaluation.
+
+The information and documents provided within this repository are not the official published ESP reports. This repository is available publicly to foster discussion of project topics and is done so within the spirit of improved transparency, reproducibility, and the main principles of open science.
 
 ## Collaborators
 
